@@ -1,4 +1,5 @@
 import { RegisterForm } from '../../components/forms/RegisterForm';
+import './authPage.scss';
 
 function AuthenticationPage() {
   return (

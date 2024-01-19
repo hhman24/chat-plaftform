@@ -13,18 +13,10 @@ html,
 body,
 html {
   background-color: #1a1a1a;
-  /* font-family: 'Inter'; */
+  font-family: Arial;
   color: #fff;
 }
 
 h1 {
   margin: 0;
-}
-
-.auth__container {
-  height: 100%;
-  display: flex;
-  background-color: #1a1a1a;
-  justify-content: center;
-  align-items: center;
 }
