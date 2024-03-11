@@ -1,5 +1,5 @@
 import { FieldErrors, FieldValues, UseFormRegister } from 'react-hook-form';
-import './InputText.scss';
+import './inputText.scss';
 
 interface Props {
   label?: string;
